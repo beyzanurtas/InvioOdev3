@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BiShop</string>
+    <string name="title">Blue Daisy</string>
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+    <string name="xlarge">XL</string>
+    <string name="product_description">Bloomy, viscose, long-sleeved shirt</string>
+    <string name="price">$ 14.99</string>
+    <string name="button">ADD TO BAG</string>
+</resources>

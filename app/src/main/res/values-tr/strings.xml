@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BiShop</string>
+    <string name="title">Mavi Papatya</string>
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+    <string name="xlarge">XL</string>
+    <string name="product_description">Çiçekli, viskon, uzun kollu gömlek</string>
+    <string name="price">270 ₺</string>
+    <string name="button">SEPETE EKLE</string>
+</resources>
